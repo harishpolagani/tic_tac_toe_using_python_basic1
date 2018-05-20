@@ -1,0 +1,64 @@
+
+Game status=  GAME_NOT_STARTED
+No. of players =  2
+
+  0  0  0
+  0  0  0
+  0  0  0
+
+Its PLAYER1 Turn
+enter the row value / enter EXIT to exit  : 0
+enter the column value / enter EXIT to exit : 0
+
+  1  0  0
+  0  0  0
+  0  0  0
+
+Its PLAYER2 Turn
+enter the row value / enter EXIT to exit  : 2
+enter the column value / enter EXIT to exit : 2
+
+  1  0  0
+  0  0  0
+  0  0  2
+
+Its PLAYER1 Turn
+enter the row value / enter EXIT to exit  : 1
+enter the column value / enter EXIT to exit : 1
+
+  1  0  0
+  0  1  0
+  0  0  2
+
+Its PLAYER2 Turn
+enter the row value / enter EXIT to exit  : 0
+enter the column value / enter EXIT to exit : 1
+
+  1  2  0
+  0  1  0
+  0  0  2
+
+Its PLAYER1 Turn
+enter the row value / enter EXIT to exit  : 0
+enter the column value / enter EXIT to exit : 2
+
+  1  2  1
+  0  1  0
+  0  0  2
+
+Its PLAYER2 Turn
+enter the row value / enter EXIT to exit  : 1
+enter the column value / enter EXIT to exit : 0
+
+  1  2  1
+  2  1  0
+  0  0  2
+
+Its PLAYER1 Turn
+enter the row value / enter EXIT to exit  : 2
+enter the column value / enter EXIT to exit : 0
+**************************
+__________HURRAY__________
+Game over:
+winner is:   PLAYER1
+**************************
